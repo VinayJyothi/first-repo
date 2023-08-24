@@ -5,5 +5,5 @@ O oracle
 =======
 O Orange
 >>>>>>> alternative
-P Powder
-T Tapir
+P Pow
+T Tall
