@@ -1,7 +1,7 @@
 M Mole
 N Newt
 <<<<<<< HEAD
-S song
+O oracle
 =======
 O Ocelots
 >>>>>>> alternative
