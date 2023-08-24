@@ -3,7 +3,7 @@ N Newt
 <<<<<<< HEAD
 O oracle
 =======
-O Ocelots
+O Orange
 >>>>>>> alternative
-P Pandai
+P Powder
 T Tapir
