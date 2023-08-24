@@ -1,5 +1,9 @@
-M Muskrat
+M Mole
 N Newt
-O Onager
-P Panda
+<<<<<<< HEAD
+S song
+=======
+O Ocelots
+>>>>>>> alternative
+P Pandai
 T Tapir
