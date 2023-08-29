@@ -1,9 +1,5 @@
 M Mole
 N Newt
-<<<<<<< HEAD
-O oracle
-=======
 O Orange
->>>>>>> alternative
 P Pow
 T Tall
